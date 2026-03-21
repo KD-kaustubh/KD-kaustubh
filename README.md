@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on Customer Churn Prediction API (XGBoost + Flask, live on Render) <br>& a SQL Analytics Dashboard <br>👯 I’m looking to collaborate on Full-stack web apps, data-driven products, or ML projects — <br>I'm comfortable across the stack from Vue.js frontend to Flask APIs <br>to ML pipelines<br>🤝 I’m looking for help with Scaling Flask apps to production and MLOps best practices<br>🌱 I’m currently learning Deep Learning with PyTorch, HuggingFace Transformers, <br>and improving system design for full-stack applications<br>💬 Ask me about Flask REST APIs, Vue.js, SQL, Machine Learning pipelines, <br>or the IITM BS Data Science program<br>⚡Fun fact I built a full-stack parking management system AND <br>a live ML churn prediction API — both deployed 🚀 
-
+# 💫 About Me
+🔭 Building a **Customer Churn Prediction API** (XGBoost + Flask, live on Render)<br>
+👯 Open to collaborate on **full-stack or ML projects**<br>
+🌱 Currently learning **PyTorch, HuggingFace & System Design**<br>
+💬 Ask me about **Flask, Vue.js, SQL, or IITM BS DS program**<br>
+⚡ Fun fact: I've deployed both a full-stack web app & a live ML API
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-dwivedi-kd/) 
