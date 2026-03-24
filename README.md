@@ -64,14 +64,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KD-kaustubh&theme=dark&hide_border=false&include_all_commits=true" height="150"/>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD-kaustubh&theme=dark&hide_border=false&layout=compact" height="150"/>
 </p>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KD-kaustubh&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=KD-kaustubh&theme=dark&hide_border=false"/>
 </p>
 
----
+<br/>
 
+---
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-dwivedi-kd/)
