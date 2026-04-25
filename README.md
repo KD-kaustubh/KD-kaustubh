@@ -21,11 +21,13 @@
 ## 🚀 Projects
 
 ### 📊 Data Science & ML
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **Customer Churn Prediction API** | End-to-end ML pipeline with XGBoost (F1: 0.65, AUC: 0.87), deployed as a live REST API | Python, XGBoost, Flask, Render | [Live API](https://churn-predictor-api.onrender.com) |
-| **BDM Capstone — Inventory Optimization** | Real business analysis for Shiv Shakti Dry Cleaners. RFM segmentation, seasonal analysis, ₹1.44L opportunity found | Python, Pandas, Seaborn, Excel | [GitHub](https://github.com/KD-kaustubh/BDM-capstone_project) |
-| **Olist Sales Analytics Dashboard** | Interactive dashboard on 100k+ orders across 6 relational tables using SQL window functions | Python, SQL, PostgreSQL, Plotly Dash | [Dashboard](https://sales-analytics-dashboard-fjj4.onrender.com) |
+| Project                                   | Description                                                                                                        | Tech                                   | Link                                                             |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ---------------------------------------------------------------- |
+| **Customer Churn Prediction API**         | End-to-end ML pipeline with XGBoost (F1: 0.65, AUC: 0.87), deployed as a live REST API                             | Python, XGBoost, Flask, Render         | [Live API](https://churn-predictor-api.onrender.com)             |
+| **Brain Tumor Detection (CNN + Flask)**   | Deep learning web app that classifies MRI scans as Tumor/No Tumor with confidence scores and interactive UI        | Python, TensorFlow, CNN, Flask, OpenCV | [Live App](https://brain-tumor-detection-cnn-jz82.onrender.com)  |
+| **BDM Capstone — Inventory Optimization** | Real business analysis for Shiv Shakti Dry Cleaners. RFM segmentation, seasonal analysis, ₹1.44L opportunity found | Python, Pandas, Seaborn, Excel         | [GitHub](https://github.com/KD-kaustubh/BDM-capstone_project)    |
+| **Olist Sales Analytics Dashboard**       | Interactive dashboard on 100k+ orders across 6 relational tables using SQL window functions                        | Python, SQL, PostgreSQL, Plotly Dash   | [Dashboard](https://sales-analytics-dashboard-fjj4.onrender.com) |
+
 
 ### 🌐 Web Development
 | Project | Description | Tech | Link |
