@@ -41,7 +41,7 @@
 | Project                        | Description                                                 | Tech                     | Link                                                    |
 | ------------------------------ | ----------------------------------------------------------- | ------------------------ | ------------------------------------------------------- |
 | **QuizMaster Platform**        | Role-based quiz platform with auth, timed tests & analytics | Flask, Vue.js, SQLite    | [Live](https://quizmaster-application.onrender.com)     |
-| **Vehicle Parking Management** | Real-time slot tracking system with REST APIs & billing     | Flask, REST APIs, SQLite | [GitHub](https://vehicle-parking-app-6vcv.onrender.com) |
+| **Vehicle Parking Management** | Real-time slot tracking system with REST APIs & billing     | Flask, REST APIs, SQLite | [Live](https://vehicle-parking-app-6vcv.onrender.com) |
 
 ---
 
