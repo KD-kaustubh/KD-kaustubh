@@ -17,6 +17,7 @@
 - 💻 Software Developer Intern at **Sudha Gopalakrishnan Brain Centre, IIT Madras**
 - 🤖 Building **AI/RAG systems, ML applications, and backend services**
 - 📄 Built a **Research Paper RAG Assistant** with PDF upload, FAISS retrieval, Gemini, FastAPI & Streamlit
+- 🧮 Built an **AI Data Analyst Agent** with structured LLM tool calling, multi-step reasoning, grounding validation, FastAPI & Streamlit
 - 📊 Built an end-to-end **Customer Churn Prediction API** with XGBoost
 - 🧠 Built a **Brain Tumor Detection CNN** with live inference
 - 🧺 Completed a real-world **Business Data Management Capstone** for inventory & customer analysis
@@ -31,6 +32,7 @@
 
 | Project | Description | Tech | Link |
 | --- | --- | --- | --- |
+| **AI Data Analyst Agent** | Upload a CSV/XLSX and ask questions in plain English — a bounded agent picks from a fixed set of Pandas tools via structured LLM tool calling, runs the real computation, and grounds its answer in the verified result, with follow-up conversation support | Python, FastAPI, Streamlit, Pandas, Groq, Gemini, Docker | [GitHub](https://github.com/KD-kaustubh/AI-DATA-ANALYST-AGENT) · [Live Demo](https://ai-data-analyst-ui-tfvu.onrender.com) |
 | **RAG Research Assistant** | Research-paper Q&A system with PDF upload, document cleaning, semantic chunking, FAISS retrieval, grounded Gemini answers, source/page citations, session memory, FastAPI & Streamlit | Python, FastAPI, Streamlit, FAISS, Gemini, Docker | [GitHub](https://github.com/KD-kaustubh/RAG-RESEARCH-ASSISTANT) · [Live Demo](https://rag-ui-cbjo.onrender.com) |
 
 ### 📊 Data Science & ML
@@ -82,6 +84,7 @@ Working on software systems for neuroscience research workflows, including:
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### ⚙️ Backend & APIs
