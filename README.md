@@ -16,6 +16,7 @@
 - 🎓 Pursuing **BS in Data Science & Applications** at **IIT Madras**
 - 💻 Software Developer Intern at **Sudha Gopalakrishnan Brain Centre, IIT Madras**
 - 🤖 Building **AI/RAG systems, ML applications, and backend services**
+- 🎓 Built an **IITM BS Degree Assistant** — a RAG chatbot over the student handbook & course docs with multi-LLM fallback (OpenAI, Gemini, Groq), deployed on Streamlit
 - 📄 Built a **Research Paper RAG Assistant** with PDF upload, FAISS retrieval, Gemini, FastAPI & Streamlit
 - 🧮 Built an **AI Data Analyst Agent** with structured LLM tool calling, multi-step reasoning, grounding validation, FastAPI & Streamlit
 - 📊 Built an end-to-end **Customer Churn Prediction API** with XGBoost
@@ -34,6 +35,7 @@
 | Project | Description | Tech | Link |
 | --- | --- | --- | --- |
 | **AI Data Analyst Agent** | Upload a CSV/XLSX and ask questions in plain English — a bounded agent picks from a fixed set of Pandas tools via structured LLM tool calling, runs the real computation, and grounds its answer in the verified result, with follow-up conversation support | Python, FastAPI, Streamlit, Pandas, Groq, Gemini, Docker | [GitHub](https://github.com/KD-kaustubh/AI-DATA-ANALYST-AGENT) · [Live Demo](https://ai-data-analyst-ui-tfvu.onrender.com) |
+| **IITM BS Degree Assistant** | RAG chatbot for IITM BS students — an LLM router sends each question to full course documents or a ChromaDB search over the handbook, answers stay grounded in the documents, with follow-up conversation support and automatic fallback across OpenAI (AI Pipe), Gemini and Groq | Python, LangChain, ChromaDB, OpenAI, Gemini, Groq, Streamlit | [GitHub](https://github.com/KD-kaustubh/Chatbot-RAG) · [Live Demo](https://chatbot-rag-a2fhptorpybnshppovni3r.streamlit.app/) |
 | **RAG Research Assistant** | Research-paper Q&A system with PDF upload, document cleaning, semantic chunking, FAISS retrieval, grounded Gemini answers, source/page citations, session memory, FastAPI & Streamlit | Python, FastAPI, Streamlit, FAISS, Gemini, Docker | [GitHub](https://github.com/KD-kaustubh/RAG-RESEARCH-ASSISTANT) · [Live Demo](https://rag-ui-cbjo.onrender.com) |
 
 ### 📊 Data Science & ML
@@ -83,7 +85,10 @@ Working on software systems for neuroscience research workflows, including:
 ![XGBoost](https://custom-icon-badges.demolab.com/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
