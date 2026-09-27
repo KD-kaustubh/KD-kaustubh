@@ -22,6 +22,7 @@
 - 🧠 Built a **Brain Tumor Detection CNN** with live inference
 - 🧺 Completed a real-world **Business Data Management Capstone** for inventory & customer analysis
 - 🌱 Currently strengthening **Machine Learning, LLM applications, backend engineering & system design**
+- 🔌 Learning **MCP (Model Context Protocol)** — building tool servers to connect LLMs with local data/actions
 - 📍 India
 
 ---
