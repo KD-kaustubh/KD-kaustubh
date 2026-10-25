@@ -51,6 +51,7 @@
 
 | Project | Description | Tech | Link |
 | --- | --- | --- | --- |
+| **Examination Management Portal** | Role-based portal for slot-based exams like vivas and practicals — admins set up exams and weighted rubrics, examiners publish slots and evaluate, students book slots and view results; Redis caching and Celery jobs for email reminders, monthly reports and CSV exports | Flask, Vue.js, JWT, SQLAlchemy, SQLite, Redis, Celery | [GitHub](https://github.com/KD-kaustubh/examination-management-portal_v2) |
 | **QuizMaster Platform** | Role-based quiz platform with authentication, timed tests, scheduling and performance analytics | Flask, Vue.js, SQLite | [Live](https://quizmaster-application.onrender.com) |
 | **Vehicle Parking Management** | Parking management system with real-time slot tracking, REST APIs, reservations and automated billing | Flask, Vue.js, SQLAlchemy, SQLite | [Live](https://vehicle-parking-app-6vcv.onrender.com) |
 
