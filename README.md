@@ -11,6 +11,10 @@
   💡 From data analysis and machine learning to APIs, RAG systems, and deployed applications
 </p>
 
+<p align="center">
+  <a href="https://kd-kaustubh.github.io"><img src="https://img.shields.io/badge/Portfolio-kd--kaustubh.github.io-c8f169?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0c0d" alt="Portfolio: kd-kaustubh.github.io" /></a>
+</p>
+
 <br/>
 
 - 🎓 Pursuing **BS in Data Science & Applications** at **IIT Madras**
@@ -144,6 +148,7 @@ I enjoy understanding systems from the fundamentals and then turning them into w
 
 ## 🌐 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-c8f169?style=flat&logo=googlechrome&logoColor=14200a)](https://kd-kaustubh.github.io)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/kaustubh-dwivedi-kd/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KD-kaustubh)
 
