@@ -20,7 +20,7 @@
 - 🎓 Pursuing **BS in Data Science & Applications** at **IIT Madras**
 - 💻 Software Developer Intern at **Sudha Gopalakrishnan Brain Centre, IIT Madras**
 - 🤖 Building **AI/RAG systems, ML applications, and backend services**
-- 🎓 Built an **IITM BS Degree Assistant** — a RAG chatbot over the student handbook & course docs with multi-LLM fallback (OpenAI, Gemini, Groq), deployed on Streamlit
+- 🎓 Rebuilt & upgraded an **IITM BS Degree Assistant** — a RAG chatbot over the Sep 2026 grading document, student handbook & course docs, with multi-LLM fallback (OpenAI, Gemini, Groq), deployed on Streamlit
 - 📄 Built a **Research Paper RAG Assistant** with PDF upload, FAISS retrieval, Gemini, FastAPI & Streamlit
 - 🧮 Built an **AI Data Analyst Agent** with structured LLM tool calling, multi-step reasoning, grounding validation, FastAPI & Streamlit
 - 📊 Built an end-to-end **Customer Churn Prediction API** with XGBoost
@@ -39,7 +39,7 @@
 | Project | Description | Tech | Link |
 | --- | --- | --- | --- |
 | **AI Data Analyst Agent** | Upload a CSV/XLSX and ask questions in plain English — a bounded agent picks from a fixed set of Pandas tools via structured LLM tool calling, runs the real computation, and grounds its answer in the verified result, with follow-up conversation support | Python, FastAPI, Streamlit, Pandas, Groq, Gemini, Docker | [GitHub](https://github.com/KD-kaustubh/AI-DATA-ANALYST-AGENT) · [Live Demo](https://ai-data-analyst-ui-tfvu.onrender.com) |
-| **IITM BS Degree Assistant** | RAG chatbot for IITM BS students — an LLM router sends each question to full course documents or a ChromaDB search over the handbook, answers stay grounded in the documents, with follow-up conversation support and automatic fallback across OpenAI (AI Pipe), Gemini and Groq | Python, LangChain, ChromaDB, OpenAI, Gemini, Groq, Streamlit | [GitHub](https://github.com/KD-kaustubh/Chatbot-RAG) · [Live Demo](https://chatbot-rag-a2fhptorpybnshppovni3r.streamlit.app/) |
+| **IITM BS Degree Assistant** | RAG chatbot for IITM BS students — an LLM router sends each question to the right course documents or a ChromaDB search over the current grading document and handbook, with grading formulas for all 57 courses, grounded answers, follow-up support and automatic fallback across OpenAI (AI Pipe), Gemini and Groq | Python, LangChain, ChromaDB, OpenAI, Gemini, Groq, Streamlit | [GitHub](https://github.com/KD-kaustubh/Chatbot-RAG) · [Live Demo](https://chatbot-rag-a2fhptorpybnshppovni3r.streamlit.app/) |
 | **RAG Research Assistant** | Research-paper Q&A system with PDF upload, document cleaning, semantic chunking, FAISS retrieval, grounded Gemini answers, source/page citations, session memory, FastAPI & Streamlit | Python, FastAPI, Streamlit, FAISS, Gemini, Docker | [GitHub](https://github.com/KD-kaustubh/RAG-RESEARCH-ASSISTANT) · [Live Demo](https://rag-ui-cbjo.onrender.com) |
 
 ### 📊 Data Science & ML
